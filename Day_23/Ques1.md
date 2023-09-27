@@ -1,0 +1,2 @@
+* In computer science, a thread typically refers to a sequence of software code the computer and its CPU must execute. In programming, a thread is the smallest series of related instructions involved in a process, which can involve many threads. For example, a thread may involve a small subroutine intended to ask for and await user input. Another thread might serve to apply a specific mathematical algorithm to data.
+
